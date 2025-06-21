@@ -1,0 +1,21 @@
+# Core packages (installed via conda)
+pandas
+numpy
+pillow
+pyarrow
+jupyter
+notebook
+matplotlib
+seaborn
+scikit-learn
+
+# PySpark
+pyspark==3.5.5
+
+# TensorFlow and related packages
+tensorflow==2.15.0
+keras-applications
+keras-preprocessing
+
+# Optional: TensorFlowOnSpark for distributed processing
+tensorflowonspark
